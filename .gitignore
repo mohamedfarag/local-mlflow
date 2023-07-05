@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Spark stuff
+spark-warehouse
+delta
+derby.log
+
 # C extensions
 *.so
 
