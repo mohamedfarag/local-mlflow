@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689039820713,"sparkVersion":"3.4.1","uid":"VectorAssembler_4a289cc67345","paramMap":{"inputCols":["sociales_encoded"],"outputCol":"sociales_encoded_vec"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_4a289cc67345__output"}}

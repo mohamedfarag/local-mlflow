@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1688922588693,"sparkVersion":"3.4.1","uid":"VectorAssembler_0325b21ca2bc","paramMap":{"inputCols":["genero_encoded"],"outputCol":"genero_encoded_vec"},"defaultParamMap":{"outputCol":"VectorAssembler_0325b21ca2bc__output","handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1689039818367,"sparkVersion":"3.4.1","uid":"StringIndexer_a850b73006bb","paramMap":{"inputCol":"sociales","outputCol":"sociales_indexed"},"defaultParamMap":{"outputCol":"StringIndexer_a850b73006bb__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689047270246,"sparkVersion":"3.4.1","uid":"VectorAssembler_94153905ad72","paramMap":{"outputCol":"biologia_encoded_vec","inputCols":["biologia_encoded"]},"defaultParamMap":{"outputCol":"VectorAssembler_94153905ad72__output","handleInvalid":"error"}}

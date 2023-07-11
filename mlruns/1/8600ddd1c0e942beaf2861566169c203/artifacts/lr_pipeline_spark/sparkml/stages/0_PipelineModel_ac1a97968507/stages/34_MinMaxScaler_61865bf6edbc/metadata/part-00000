@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1688922589696,"sparkVersion":"3.4.1","uid":"MinMaxScaler_61865bf6edbc","paramMap":{"inputCol":"quimica_encoded_vec","outputCol":"quimica_encoded_scaled"},"defaultParamMap":{"max":1.0,"min":0.0,"outputCol":"MinMaxScaler_61865bf6edbc__output"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689047270508,"sparkVersion":"3.4.1","uid":"VectorAssembler_92290baa7e62","paramMap":{"outputCol":"sisben_vec","inputCols":["sisben"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_92290baa7e62__output"}}
