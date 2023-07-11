@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1689049579240,"sparkVersion":"3.4.1","uid":"MinMaxScaler_d56ca9d0a41b","paramMap":{"inputCol":"estrato_vec","outputCol":"estrato_scaled"},"defaultParamMap":{"min":0.0,"max":1.0,"outputCol":"MinMaxScaler_d56ca9d0a41b__output"}}

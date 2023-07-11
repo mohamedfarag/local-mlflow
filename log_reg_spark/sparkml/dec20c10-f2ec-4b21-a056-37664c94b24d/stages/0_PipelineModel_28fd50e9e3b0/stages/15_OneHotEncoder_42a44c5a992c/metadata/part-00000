@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1689047269635,"sparkVersion":"3.4.1","uid":"OneHotEncoder_42a44c5a992c","paramMap":{"outputCol":"fisica_encoded","inputCol":"fisica_indexed"},"defaultParamMap":{"outputCol":"OneHotEncoder_42a44c5a992c__output","handleInvalid":"error","dropLast":true}}

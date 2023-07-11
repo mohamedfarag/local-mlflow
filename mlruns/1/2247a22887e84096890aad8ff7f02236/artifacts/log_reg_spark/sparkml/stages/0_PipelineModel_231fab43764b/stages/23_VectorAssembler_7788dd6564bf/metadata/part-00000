@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689049577565,"sparkVersion":"3.4.1","uid":"VectorAssembler_7788dd6564bf","paramMap":{"inputCols":["quimica_encoded"],"outputCol":"quimica_encoded_vec"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_7788dd6564bf__output"}}

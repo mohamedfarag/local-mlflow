@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1689046195376,"sparkVersion":"3.4.1","uid":"StringIndexer_7ef539379b06","paramMap":{"inputCol":"fisica","outputCol":"fisica_indexed"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_7ef539379b06__output"}}

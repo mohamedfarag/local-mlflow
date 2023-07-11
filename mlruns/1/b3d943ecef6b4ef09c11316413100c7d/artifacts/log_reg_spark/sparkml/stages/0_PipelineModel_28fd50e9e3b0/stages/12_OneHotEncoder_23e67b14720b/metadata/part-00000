@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1689047282760,"sparkVersion":"3.4.1","uid":"OneHotEncoder_23e67b14720b","paramMap":{"inputCol":"filosofia_indexed","outputCol":"filosofia_encoded"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_23e67b14720b__output","dropLast":true}}

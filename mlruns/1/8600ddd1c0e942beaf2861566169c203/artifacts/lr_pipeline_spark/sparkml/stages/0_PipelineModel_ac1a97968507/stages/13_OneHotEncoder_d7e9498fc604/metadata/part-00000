@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1688922587382,"sparkVersion":"3.4.1","uid":"OneHotEncoder_d7e9498fc604","paramMap":{"inputCol":"biologia_indexed","outputCol":"biologia_encoded"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_d7e9498fc604__output","dropLast":true}}

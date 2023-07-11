@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1689047284812,"sparkVersion":"3.4.1","uid":"MinMaxScaler_2b72f84891f4","paramMap":{"inputCol":"biologia_encoded_vec","outputCol":"biologia_encoded_scaled"},"defaultParamMap":{"max":1.0,"outputCol":"MinMaxScaler_2b72f84891f4__output","min":0.0}}

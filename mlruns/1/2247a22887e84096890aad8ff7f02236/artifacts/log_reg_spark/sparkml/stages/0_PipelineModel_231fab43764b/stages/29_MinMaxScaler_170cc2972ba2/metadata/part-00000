@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1689049577854,"sparkVersion":"3.4.1","uid":"MinMaxScaler_170cc2972ba2","paramMap":{"inputCol":"lenguaje_encoded_vec","outputCol":"lenguaje_encoded_scaled"},"defaultParamMap":{"max":1.0,"min":0.0,"outputCol":"MinMaxScaler_170cc2972ba2__output"}}

@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1689046199279,"sparkVersion":"3.4.1","uid":"MinMaxScaler_fc79567ec401","paramMap":{"inputCol":"sisben_vec","outputCol":"sisben_scaled"},"defaultParamMap":{"min":0.0,"max":1.0,"outputCol":"MinMaxScaler_fc79567ec401__output"}}

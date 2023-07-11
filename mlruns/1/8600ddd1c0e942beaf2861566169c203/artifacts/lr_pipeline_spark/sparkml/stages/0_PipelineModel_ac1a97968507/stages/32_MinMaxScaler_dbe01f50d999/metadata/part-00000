@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1688922589318,"sparkVersion":"3.4.1","uid":"MinMaxScaler_dbe01f50d999","paramMap":{"inputCol":"filosofia_encoded_vec","outputCol":"filosofia_encoded_scaled"},"defaultParamMap":{"max":1.0,"outputCol":"MinMaxScaler_dbe01f50d999__output","min":0.0}}

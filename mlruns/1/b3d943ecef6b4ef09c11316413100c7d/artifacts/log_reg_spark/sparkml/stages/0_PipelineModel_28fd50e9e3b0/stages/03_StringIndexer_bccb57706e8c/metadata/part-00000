@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1689047281483,"sparkVersion":"3.4.1","uid":"StringIndexer_bccb57706e8c","paramMap":{"outputCol":"filosofia_indexed","inputCol":"filosofia"},"defaultParamMap":{"outputCol":"StringIndexer_bccb57706e8c__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}

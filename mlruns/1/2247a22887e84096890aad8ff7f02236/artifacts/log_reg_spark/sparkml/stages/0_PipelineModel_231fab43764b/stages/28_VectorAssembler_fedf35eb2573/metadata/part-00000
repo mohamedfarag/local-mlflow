@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689049577802,"sparkVersion":"3.4.1","uid":"VectorAssembler_fedf35eb2573","paramMap":{"outputCol":"estrato_vec","inputCols":["estrato"]},"defaultParamMap":{"outputCol":"VectorAssembler_fedf35eb2573__output","handleInvalid":"error"}}

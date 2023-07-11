@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1689049574834,"sparkVersion":"3.4.1","uid":"StringIndexer_6e221632245c","paramMap":{"outputCol":"matematicas_indexed","inputCol":"matematicas"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_6e221632245c__output","stringOrderType":"frequencyDesc"}}

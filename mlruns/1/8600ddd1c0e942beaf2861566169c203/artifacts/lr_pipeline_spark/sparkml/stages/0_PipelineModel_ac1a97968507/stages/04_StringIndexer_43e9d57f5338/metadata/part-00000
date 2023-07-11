@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1688922586105,"sparkVersion":"3.4.1","uid":"StringIndexer_43e9d57f5338","paramMap":{"inputCol":"biologia","outputCol":"biologia_indexed"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_43e9d57f5338__output"}}

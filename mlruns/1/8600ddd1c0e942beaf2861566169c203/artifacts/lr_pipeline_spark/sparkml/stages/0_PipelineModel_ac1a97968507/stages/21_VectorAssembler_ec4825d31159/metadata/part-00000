@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1688922588454,"sparkVersion":"3.4.1","uid":"VectorAssembler_ec4825d31159","paramMap":{"inputCols":["filosofia_encoded"],"outputCol":"filosofia_encoded_vec"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_ec4825d31159__output"}}

@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1689039820131,"sparkVersion":"3.4.1","uid":"OneHotEncoder_0bcedfed78ab","paramMap":{"inputCol":"quimica_indexed","outputCol":"quimica_encoded"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_0bcedfed78ab__output","handleInvalid":"error"}}
