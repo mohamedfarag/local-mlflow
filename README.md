@@ -2,7 +2,7 @@
 
 Here We will see how to implement PySpark for Machine Learning and MLflow for model tracking, registry and expose in production as you can see below:
 
-![image](imgs/mlflowjpg.jpg){: width="50px"}
+<img src="imgs/mlflowjpg.jpg" alt="image" width="300"/>
 
 An ideal enviroment to run or deploy this repo is Databricks, because all dependencies are installed under its runtime, and this tools work perfectly on Databricks due to the clusters of distributed computing that can be configured deploying Databricks on AWS, Azure or GCP.
 
