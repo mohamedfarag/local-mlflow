@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.MinMaxScalerModel","timestamp":1689049578671,"sparkVersion":"3.4.1","uid":"MinMaxScaler_63b42be9824e","paramMap":{"inputCol":"fisica_encoded_vec","outputCol":"fisica_encoded_scaled"},"defaultParamMap":{"min":0.0,"max":1.0,"outputCol":"MinMaxScaler_63b42be9824e__output"}}

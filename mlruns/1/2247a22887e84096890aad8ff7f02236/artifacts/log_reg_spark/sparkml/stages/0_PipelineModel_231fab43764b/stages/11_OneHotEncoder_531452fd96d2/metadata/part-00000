@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1689049576329,"sparkVersion":"3.4.1","uid":"OneHotEncoder_531452fd96d2","paramMap":{"outputCol":"sociales_encoded","inputCol":"sociales_indexed"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_531452fd96d2__output","handleInvalid":"error"}}

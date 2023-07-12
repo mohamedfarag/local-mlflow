@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1689049577612,"sparkVersion":"3.4.1","uid":"VectorAssembler_b8b8b0b0a121","paramMap":{"outputCol":"fisica_encoded_vec","inputCols":["fisica_encoded"]},"defaultParamMap":{"outputCol":"VectorAssembler_b8b8b0b0a121__output","handleInvalid":"error"}}

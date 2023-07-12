@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1689132791277,"sparkVersion":"3.4.1","uid":"OneHotEncoder_e53d413fd95c","paramMap":{"outputCol":"matematicas_encoded","inputCol":"matematicas_indexed"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_e53d413fd95c__output"}}

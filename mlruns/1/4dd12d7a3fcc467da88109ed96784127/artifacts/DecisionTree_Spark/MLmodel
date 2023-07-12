@@ -1,0 +1,17 @@
+artifact_path: DecisionTree_Spark
+flavors:
+  python_function:
+    data: sparkml
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.spark
+    python_version: 3.8.10
+  spark:
+    code: null
+    model_data: sparkml
+    pyspark_version: 3.4.1
+mlflow_version: 2.4.1
+model_uuid: 4c66f3e32dea463ba06a8f920ce72d28
+run_id: 4dd12d7a3fcc467da88109ed96784127
+utc_time_created: '2023-07-12 03:37:50.423526'

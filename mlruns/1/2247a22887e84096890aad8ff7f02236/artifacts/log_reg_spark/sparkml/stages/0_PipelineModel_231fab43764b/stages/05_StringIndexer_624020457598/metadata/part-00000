@@ -1,1 +1,0 @@
-{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1689049575464,"sparkVersion":"3.4.1","uid":"StringIndexer_624020457598","paramMap":{"outputCol":"quimica_indexed","inputCol":"quimica"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_624020457598__output"}}
