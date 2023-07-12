@@ -34,5 +34,5 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 And you can visualize the experiments, see them artifacts, parameters, metrics, tags and so on. Check the versioning of models, the yaml files, stages and other objects in the mlruns dir, because that's how MLflow makes easier deployment and production.
 
 <div align="center">
-  <img src="imgs/mlflowui.jpg" alt="image" width="500"/>
+  <img src="imgs/mlflowui.png" alt="image" width="500"/>
 </div>
